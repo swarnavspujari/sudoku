@@ -1,5 +1,5 @@
 # solver.py
-
+#imports of the algorithim that both checks the validity of a number and does recursion in the process to calculate if your inputed answer was in fact correct.
 def solve(bo):
     find = find_empty(bo)
     if not find:
